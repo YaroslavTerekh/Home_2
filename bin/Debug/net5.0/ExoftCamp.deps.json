@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ExoftCamp/1.0.0": {
+        "runtime": {
+          "ExoftCamp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExoftCamp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
