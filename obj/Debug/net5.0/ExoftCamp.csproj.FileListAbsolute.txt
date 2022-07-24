@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\ExoftCamp\bin\Debug\net5.0\ExoftCamp.exe
+C:\Users\Home\source\repos\ExoftCamp\bin\Debug\net5.0\ExoftCamp.deps.json
+C:\Users\Home\source\repos\ExoftCamp\bin\Debug\net5.0\ExoftCamp.runtimeconfig.json
+C:\Users\Home\source\repos\ExoftCamp\bin\Debug\net5.0\ExoftCamp.runtimeconfig.dev.json
+C:\Users\Home\source\repos\ExoftCamp\bin\Debug\net5.0\ExoftCamp.dll
+C:\Users\Home\source\repos\ExoftCamp\bin\Debug\net5.0\ref\ExoftCamp.dll
+C:\Users\Home\source\repos\ExoftCamp\bin\Debug\net5.0\ExoftCamp.pdb
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ExoftCamp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ExoftCamp.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ExoftCamp.AssemblyInfo.cs
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ExoftCamp.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ExoftCamp.dll
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ref\ExoftCamp.dll
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ExoftCamp.pdb
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ExoftCamp.genruntimeconfig.cache
+C:\Users\Home\source\repos\ExoftCamp\obj\Debug\net5.0\ExoftCamp.csproj.AssemblyReference.cache

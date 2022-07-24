@@ -11,7 +11,7 @@ namespace ExoftCamp_2_Game_.Logic
     {
         public void AddSuperPower(AbstractCharacter character, int power)
         {
-            character.Armor = power;
+            character.Armor += power;
         }
     }
 }

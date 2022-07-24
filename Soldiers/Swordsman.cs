@@ -8,6 +8,7 @@ namespace ExoftCamp_2_Game_.Soldiers
 {
     class Swordsman : AbstractCharacter
     {
+        public new string Name = "Swordsman";
         public new int Armor = 13;
         public new int ImpactForce = 7;
     }

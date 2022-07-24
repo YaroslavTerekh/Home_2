@@ -8,10 +8,11 @@ namespace ExoftCamp_2_Game_
 {
     public class SuperPowerGenerator
     {
-        public void GetSuperPower()
+        public int GetSuperPower()
         {
             int time = DateTime.Now.Millisecond;
             int result = (time % 6) + 5;
+            return result;
             //int result = (time % 6) - 5 + 10 / 2 * 2;  // - with all operators
         }
     }
